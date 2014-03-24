@@ -51,10 +51,10 @@ GREEN = '#3BF256' # Actual faction text colors in the app
 BLUE  = '#2ABBFF'
 #GREEN = (0.0 , 1.0 , 0.0 , 0.3)
 #BLUE  = (0.0 , 0.0 , 1.0 , 0.3)
-COLOR = GREEN
+COLOR = BLUE
 
-if args[1] == '-b':
-    COLOR = BLUE
+if args[1] == '-g':
+    COLOR = GREEN
     print COLOR
     args = [args[0]] + args[2:]
 

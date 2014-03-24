@@ -224,7 +224,7 @@ class PlanPrinter:
 
 
         fig = plt.gcf()
-        fig.set_size_inches(6.5,9)
+        fig.set_size_inches(9,6.5)
         plt.axis(xylims)
         plt.axis('off')
         plt.title('Portals numbered north to south\nNames on key list')
