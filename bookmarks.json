@@ -1,0 +1,253 @@
+{
+    "maps": {
+        "id1378481998085": {
+            "label": "MetroWest",
+            "state": 1,
+            "bkmrk": {
+                "id1378482034332": {
+                    "label": "Entire Area",
+                    "latlng": "38.619285,-90.606651",
+                    "z": 13
+                },
+                "id1378482537706": {
+                    "label": "Wildwood",
+                    "latlng": "38.57741,-90.638409",
+                    "z": 16
+                },
+                "id1378482105531": {
+                    "label": "Bluebird",
+                    "latlng": "38.586002,-90.584582",
+                    "z": 18
+                },
+                "id1378482442909": {
+                    "label": "Chesterfield Park",
+                    "latlng": "38.653285,-90.572523",
+                    "z": 17
+                }
+            }
+        },
+        "id1383845686004": {
+            "label": "Work",
+            "state": 1,
+            "bkmrk": {
+                "id1378483064283": {
+                    "label": "Boulevard Park",
+                    "latlng": "38.783581,-90.780472",
+                    "z": 19
+                },
+                "id1383845672605": {
+                    "label": "Lake St. Louis",
+                    "latlng": "38.796022,-90.807838",
+                    "z": 15
+                },
+                "id1383845633612": {
+                    "label": "Wentzville",
+                    "latlng": "38.814014,-90.852513",
+                    "z": 15
+                },
+                "id1383845741571": {
+                    "label": "Troy",
+                    "latlng": "38.974774,-90.982118",
+                    "z": 15
+                }
+            }
+        },
+        "id1391012182149": {
+            "label": "Colleen",
+            "state": 1,
+            "bkmrk": {
+                "id1391012188178": {
+                    "label": "Home Area",
+                    "latlng": "38.590024,-90.283971",
+                    "z": 15
+                },
+                "id1391012302091": {
+                    "label": "Work Area",
+                    "latlng": "38.557672,-90.257514",
+                    "z": 16
+                }
+            }
+        },
+        "idOthers": {
+            "label": "Others",
+            "state": 1,
+            "bkmrk": {
+                "id1380421003719": {
+                    "label": "St. Louis Area",
+                    "latlng": "38.617407,-90.486145",
+                    "z": 10
+                }
+            }
+        }
+    },
+    "portals": {
+        "id1395767385134": {
+            "label": "Boulevard Park",
+            "state": 0,
+            "bkmrk": {
+                "id1395682416156": {
+                    "guid": "ab10ce7613d0462395aa15fc7dbeac3a.16",
+                    "latlng": "38.782792,-90.781863",
+                    "label": "Czech, Case, Bruce and McDaniel Memorial Bench"
+                },
+                "id1395682406914": {
+                    "guid": "4f60e4991eed402b9ea7fe6294c75ecc.16",
+                    "latlng": "38.783637,-90.782185",
+                    "label": "Yate's Bench"
+                },
+                "id1395682410356": {
+                    "guid": "1a8f1f0b9966438ab74c2dfe29991f69.16",
+                    "latlng": "38.782768,-90.782202",
+                    "label": "Blue Star Memorial "
+                },
+                "id1395682424078": {
+                    "guid": "ffb2ea5c0f804b579c55752f572aeb82.16",
+                    "latlng": "38.782727,-90.781208",
+                    "label": "Valerie Peimann Memorial"
+                },
+                "id1395682429664": {
+                    "guid": "c1d9671209304ddc9f4c2f151dd7b48a.16",
+                    "latlng": "38.784044,-90.781208",
+                    "label": "Doby Winterer Memorial"
+                },
+                "id1395682437770": {
+                    "guid": "02c26dc73e4140e89c90ce0c75afa5bc.16",
+                    "latlng": "38.78357,-90.781038",
+                    "label": "Sastry Memorial"
+                },
+                "id1395682443812": {
+                    "guid": "495f638b910e4616a5fcaa67c8dcb67e.16",
+                    "latlng": "38.783604,-90.780579",
+                    "label": "Boulevard Park Foot Bridge"
+                },
+                "id1395682447518": {
+                    "guid": "2b5545ceb92e4fc7aceb7976fd65d1fc.16",
+                    "latlng": "38.782892,-90.780525",
+                    "label": "Patriotic Tree"
+                },
+                "id1395682432561": {
+                    "guid": "1bb9516b9fc1424ea751aeea8464f987.16",
+                    "latlng": "38.784259,-90.781137",
+                    "label": "Unless"
+                },
+                "id1395682420835": {
+                    "guid": "0f12007136ab4f4d8302fdb1784ee239.11",
+                    "latlng": "38.783921,-90.781643",
+                    "label": "Gazebo on the Lake"
+                },
+                "id1395682426865": {
+                    "guid": "abafa3dbe201440a97e8b7fac97b261a.16",
+                    "latlng": "38.784177,-90.781452",
+                    "label": "Ken Maki Memorial"
+                },
+                "id1395682435270": {
+                    "guid": "59dc5c38fd994d84bb4ecb7688a6d32f.16",
+                    "latlng": "38.78375,-90.781016",
+                    "label": "A Bid at Immortality"
+                },
+                "id1395682481143": {
+                    "guid": "3986eef93e9345609fdbbcbc63776a8a.16",
+                    "latlng": "38.783491,-90.778988",
+                    "label": "Boulevard Park Rain Garden"
+                },
+                "id1395682453821": {
+                    "guid": "d7b3b596da2b4f128df59647f2ac351b.11",
+                    "latlng": "38.784158,-90.780049",
+                    "label": "Boulevard park"
+                },
+                "id1395682457089": {
+                    "guid": "38ece569e22b41c38b297c0c953ef635.16",
+                    "latlng": "38.783439,-90.78008",
+                    "label": "Jody Dommermuth Memorial"
+                },
+                "id1395682485186": {
+                    "guid": "9bbb57ebffb64f6aa13a95d66754ab31.16",
+                    "latlng": "38.7835,-90.778548",
+                    "label": "Boulevard Park Bioretention Area"
+                },
+                "id1395682469366": {
+                    "guid": "cc0b609d97da484e8ae5d5c9d0ca3517.16",
+                    "latlng": "38.783118,-90.779806",
+                    "label": "Dr. Tony Sastry Benchmark in Boulevard Park"
+                },
+                "id1395682476648": {
+                    "guid": "1a83c3404de248468bca1135ba0fee12.16",
+                    "latlng": "38.783022,-90.779009",
+                    "label": "Blue Bench of Boulevard Park"
+                },
+                "id1395682488843": {
+                    "guid": "e4232638f06142a0be88dc524a99df94.16",
+                    "latlng": "38.784259,-90.779112",
+                    "label": "Lake St. Louis Service Memorial"
+                },
+                "id1395682473249": {
+                    "guid": "d236ea28bc40481791244a063be24568.16",
+                    "latlng": "38.78296,-90.779262",
+                    "label": "Boulevard Park Pavilion"
+                },
+                "id1395682451235": {
+                    "guid": "d8f5d3a33bf846a8b4d3bf8d8e50f1ab.16",
+                    "latlng": "38.78392,-90.780094",
+                    "label": "Roots Du Souvenir"
+                },
+                "id1395682461221": {
+                    "guid": "3923854d87dd4074adc5882c0113aff5.16",
+                    "latlng": "38.783162,-90.780262",
+                    "label": "Kyfus Memorial"
+                },
+                "id1395682413043": {
+                    "guid": "f2f805de1e8649beabe107ed8eef838a.16",
+                    "latlng": "38.783371,-90.781941",
+                    "label": "Zachary Weikart Bench"
+                },
+                "id1395682404518": {
+                    "guid": "f7be590fc96340fdba51d8e308bbe85a.11",
+                    "latlng": "38.78412,-90.782122",
+                    "label": "Clock on the Square"
+                }
+            }
+        },
+        "id1395767444027": {
+            "label": "Work",
+            "state": 0,
+            "bkmrk": {
+                "id1395767451268": {
+                    "guid": "28042e6117d94c0a8702f172ed434b4d.16",
+                    "latlng": "38.784912,-90.787098",
+                    "label": "Ernie Gielow Memorial"
+                },
+                "id1395767454776": {
+                    "guid": "751bec477dde472fbeba8949cdcd800f.16",
+                    "latlng": "38.784718,-90.787575",
+                    "label": "Secret Fountain"
+                },
+                "id1395767457840": {
+                    "guid": "903602389b3449c5aff1951571365b62.16",
+                    "latlng": "38.784116,-90.787009",
+                    "label": "Dale Lawson Memoriam"
+                },
+                "id1395767460874": {
+                    "guid": "67e2f56b32e74b4f81404f8f0da7e81f.16",
+                    "latlng": "38.783901,-90.786788",
+                    "label": "Brian Wolf Memorial"
+                },
+                "id1395767448454": {
+                    "guid": "be162bc403924d17964e7e0b52cdf8c5.16",
+                    "latlng": "38.784784,-90.786911",
+                    "label": "NISC Recreational Use Trail"
+                }
+            }
+        },
+        "idOthers": {
+            "label": "Others",
+            "state": 1,
+            "bkmrk": {
+                "id1395767619099": {
+                    "guid": "773305e2d36c49b2a89a0786ef1821fd.16",
+                    "latlng": "38.507595,-91.557907",
+                    "label": "Star Joy   "
+                }
+            }
+        }
+    }
+}
