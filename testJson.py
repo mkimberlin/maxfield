@@ -90,4 +90,4 @@ if input_file[-3:] != 'pkl':
     i = 0
     with open(input_file) as data_file:    
         data = json.load(data_file)
-    print(bookmarks.loadBookmarks(data, "Work"))
+    print(bookmarks.loadBookmarks(data, "NISC"))
